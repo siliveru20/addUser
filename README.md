@@ -1,3 +1,4 @@
+![add-user-v1](https://github.com/siliveru20/addUser/assets/169658673/58f58f9d-1c8f-4eaa-a513-36c95ce08d09)
 Instructions:
 
 Add the HTML form, input, p and button elements to the HTML code
